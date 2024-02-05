@@ -1,0 +1,5 @@
+Thang: 12 
+Ma NV Ho ten Luong co ban Ngay cong
+1  Huu Manh  10000000     27
+2  Nhat Minh 12000000     25
+3  Chu Quan  15000000     30

@@ -1,0 +1,5 @@
+Bang luong thang: 11     Tong luong: 30500000
+Ma NV Ho ten Luong co ban Ngay cong Luong
+1 Lan 9000000 20 11000000
+2 Le Ha 8000000 20 10000000
+3 Tuan 7000000 25 9500000
