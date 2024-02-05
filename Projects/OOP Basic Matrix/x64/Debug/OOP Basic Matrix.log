@@ -1,0 +1,59 @@
+﻿  OOP Basic Matrix.cpp
+D:\Code\Projects\OOP Basic Matrix\matrix.h(27,25): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(29,26): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(52,25): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(54,26): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(55,31): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(55,28): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(55,54): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(55,51): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(65,25): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(67,26): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(68,31): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(68,28): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(68,54): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(68,51): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(78,25): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(80,26): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(82,27): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(83,24): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(83,21): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(83,47): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(83,44): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(83,27): warning C4244: '+=': conversion from 'int64_t' to 'int', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(95,25): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(97,26): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(98,30): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(98,27): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(140,25): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(142,26): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(165,25): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(167,26): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(168,31): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(168,28): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(168,54): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(168,51): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(178,25): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(180,26): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(181,31): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(181,28): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(181,54): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(181,51): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(191,25): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(193,26): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(195,27): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(196,24): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(196,21): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(196,47): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(196,44): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(196,27): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(208,25): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(210,26): warning C4018: '<': signed/unsigned mismatch
+D:\Code\Projects\OOP Basic Matrix\matrix.h(211,30): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(211,27): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+D:\Code\Projects\OOP Basic Matrix\matrix.h(211,33): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int64_t
+          ]
+  OOP Basic Matrix.vcxproj -> D:\Code\Projects\OOP Basic Matrix\x64\Debug\OOP Basic Matrix.exe
